@@ -17,3 +17,8 @@ Week 3: Gemini 3.1 Pro
 Presented more use cases for me to backlog
 Prompt: Based on this project requirements that I have previously defined, what are some ways that reporting  for operators and users is necessary within the app?
 Gave me a high level summary of reporting usages within the app which allowed me to come up with a list for the backlog.
+
+Week 4: Gemini 3.1 Pro
+Helped me format my risks into a risk register and sync it with dates from my gantt chart.
+Prompt: "Could you please take these risks and format them into a risk register so I can paste in Excel? I also have added screenshots of my gantt chart so you can see the dates I have established currently. Please show me how I can use the dates in the risk register as well"
+Created a table for me to paste into excel and gave me a recommendation of how to refer to the dates from the gantt chart.
