@@ -22,3 +22,8 @@ Week 4: Gemini 3.1 Pro
 Helped me format my risks into a risk register and sync it with dates from my gantt chart.
 Prompt: "Could you please take these risks and format them into a risk register so I can paste in Excel? I also have added screenshots of my gantt chart so you can see the dates I have established currently. Please show me how I can use the dates in the risk register as well"
 Created a table for me to paste into excel and gave me a recommendation of how to refer to the dates from the gantt chart.
+
+Week 5: Gemini 3.1 Pro
+Helped me come up with RACI dependencies
+Prompt: Please explain how a RACI chart would work based on my project and the teams listed. 
+Gave me a description of a few points on the matrix that allowed me to build upon it to complete the matrix. 
